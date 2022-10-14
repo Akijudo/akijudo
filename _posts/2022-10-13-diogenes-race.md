@@ -3,7 +3,7 @@ title: HTB - Diogenes Rage
 author: akiju
 date: 2022-10-13 13:00:00 +0700
 categories: [Security, Tutorial]
-tags: [CTF Python RaceCondition]
+tags: [CTF, Python, RaceCondition]
 pin: true
 ---
 
